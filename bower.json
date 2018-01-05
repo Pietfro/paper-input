@@ -20,7 +20,7 @@
     "paper-input-char-counter.html"
   ],
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/paper-input",
+  "homepage": "https://github.com/Pietfro/paper-input",
   "ignore": [],
   "private": true,
   "dependencies": {
