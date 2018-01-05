@@ -22,6 +22,7 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/PolymerElements/paper-input",
   "ignore": [],
+  "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
     "iron-autogrow-textarea": "PolymerElements/iron-autogrow-textarea#^1.0.0",
